@@ -13,7 +13,7 @@
 <Button on:click="{()=>alert("Hi")}">
     Hey there!
 </Button>
-
-<Button on:click="{()=>alert("I'm doing great!")}" color="blue">
+<!-- Add this button to get purgecss to work correctly -->
+<!-- <Button on:click="{()=>alert("I'm doing great!")}" color="blue">
     How are you?
-</Button>
+</Button> -->
