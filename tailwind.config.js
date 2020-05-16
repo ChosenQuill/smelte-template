@@ -28,7 +28,8 @@ const colors = {
   };
   
   module.exports = {
-    colors
+    purge: false,
+    // colors
     // purge: [],
     // theme: {
     //   extend: {},
