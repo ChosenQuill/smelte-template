@@ -10,7 +10,7 @@ This template uses the express and rollup version of sapper.
 
 ### Using `degit`
 
-[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository. Use either the `rollup` or `webpack` branch in `sapper-template`:
+[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository.`:
 
 ```bash
 npx degit "suredroid/smelte-template" my-app
